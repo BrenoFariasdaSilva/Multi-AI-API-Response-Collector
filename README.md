@@ -25,7 +25,7 @@ The project aims to facilitate in-depth analysis and comparison of AI models, ma
 ![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasDaSilva/Multi-AI-API-Response-Collector)
 ![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
 ![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
-![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Multi-AI-API-Response-Collector.svg)
+![wakatime](https://wakatime.com/badge/user/28f6c354-43b3-4634-8ec1-631893fe27d0/project/390b8142-9564-4392-8fa2-767da905a494.svg)
 
 </div>
 
@@ -36,7 +36,7 @@ The project aims to facilitate in-depth analysis and comparison of AI models, ma
 </div>
 
 ## Table of Contents
-- [Multi-AI-API-Response-Collector. ](#Multi-AI-API-Response-Collector-)
+- [Multi-AI-API-Response-Collector. ](#multi-ai-api-response-collector-)
   - [Table of Contents](#table-of-contents)
   - [Setup](#setup)
     - [Clone the repository](#clone-the-repository)
