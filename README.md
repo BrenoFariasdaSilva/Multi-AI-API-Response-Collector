@@ -26,19 +26,6 @@ The project aims to facilitate in-depth analysis and comparison of AI models, ma
 ![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
 ![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
 ![wakatime](https://wakatime.com/badge/user/28f6c354-43b3-4634-8ec1-631893fe27d0/project/390b8142-9564-4392-8fa2-767da905a494.svg)
-
-</div>
-
-<div align="center">
-
-![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
-![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Multi-AI-API-Response-Collector/main)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
-![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
-![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
-![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
-![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
-![wakatime](https://wakatime.com/badge/user/28f6c354-43b3-4634-8ec1-631893fe27d0/project/390b8142-9564-4392-8fa2-767da905a494.svg)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)](https://github.com/BrenoFariasdaSilva/Multi-AI-API-Response-Collector/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)](https://github.com/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
 [![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)](https://github.com/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
@@ -51,7 +38,6 @@ The project aims to facilitate in-depth analysis and comparison of AI models, ma
 ![Language](https://img.shields.io/badge/Language-Python-3776AB)
 ![Integration](https://img.shields.io/badge/Integration-Multiple%20AI%20APIs-7652c8)
 ![Output](https://img.shields.io/badge/Output-CSV%20Comparison-007b83)
-
 ![Repobeats Statistics](https://repobeats.axiom.co/api/embed/6f80b5c63dd7b9a6f69d11ed28e3cb82c3cff382.svg)
 
 </div>
