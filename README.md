@@ -28,7 +28,6 @@ The project aims to facilitate in-depth analysis and comparison of AI models, ma
 ![wakatime](https://wakatime.com/badge/user/28f6c354-43b3-4634-8ec1-631893fe27d0/project/390b8142-9564-4392-8fa2-767da905a494.svg)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)](https://github.com/BrenoFariasdaSilva/Multi-AI-API-Response-Collector/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)](https://github.com/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)](https://github.com/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)
 [![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)](https://github.com/BrenoFariasdaSilva/Multi-AI-API-Response-Collector/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)](https://github.com/BrenoFariasdaSilva/Multi-AI-API-Response-Collector/issues?q=is%3Aissue+is%3Aclosed)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Multi-AI-API-Response-Collector)](https://github.com/BrenoFariasdaSilva/Multi-AI-API-Response-Collector/pulls)
